@@ -1,6 +1,6 @@
-# adivyoma
-
 # Team Adi Vyoma: Website Editing & Collaboration Guide
+
+Website Link - https://kushagri96.github.io/adivyoma-team/
 
 This guide explains how to replace the dummy assets on the website and how your team can collaborate on the code without needing to share login passwords.
 
